@@ -1,0 +1,16 @@
+create xjip hash:net
+add xjip 49.112.0.0/13
+add xjip 110.152.0.0/14
+add xjip 120.68.0.0/14
+add xjip 218.84.0.0/14
+add xjip 110.156.0.0/15
+add xjip 124.118.0.0/15
+add xjip 222.80.0.0/15
+add xjip 124.117.0.0/16
+add xjip 222.82.0.0/16
+add xjip 202.107.128.0/17
+add xjip 222.83.0.0/17
+add xjip 202.100.176.0/18
+add xjip 202.100.160.0/21
+add xjip 202.100.168.0/20
+add xjip 103.22.116.0/21
